@@ -7,3 +7,7 @@ git add .
 git commit -m "mensagem de commit"
 
 git push origin main 
+
+agora estamnos na branch nova
+
+git checkout -b dev (isso troucou a branch)
